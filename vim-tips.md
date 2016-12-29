@@ -13,7 +13,7 @@ I’ve compiled a list of *essential* vim commands that I use every day. I then 
 
 ##Cursor movement (Inside command/normal mode)
 
-<img src="images/hjkl.png" alt="The four directions in VIM - hjkl"/>
+[comment]: <> (<img src="images/hjkl.png" alt="The four directions in VIM - hjkl"/>)
 
 * `w` - jump by start of words (punctuation considered words)
 * `W` - jump by words (spaces separate words)
