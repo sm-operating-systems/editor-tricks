@@ -8,7 +8,7 @@ I’ve compiled a list of *essential* vim commands that I use every day. I then 
 ##Cursor movement (Inside command/normal mode)
 
 [comment]: # (<img src="images/hjkl.png" alt="The four directions in VIM - hjkl"/>)
-
+![](https://github.com/theicfire/vimsheet/blob/gh-pages/images/hjkl.png?raw=true)
 * `w` - jump by start of words (punctuation considered words)
 * `W` - jump by words (spaces separate words)
 * `e` - jump to end of words (punctuation considered words)
